@@ -1,6 +1,6 @@
 {
-  "name": "heavydocs",
-  "version": "1.0.0",
+  "name": "nonet",
+  "version": "0.0.0",
   "description": "Offline docs. Search instantly. Build for the terminal",
   "main": "index.js",
   "bin": {
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mweene/heavydocs.git"
+    "url": "git+https://github.com/mweene/nonet.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mweene/heavydocs/issues"
+    "url": "https://github.com/mweene/nonet/issues"
   },
-  "homepage": "https://github.com/mweene/heavydocs#readme"
+  "homepage": "https://github.com/mweene/nonet#readme"
 }
